@@ -7,7 +7,7 @@
 
   - 🔭 Trabalho como Desenvolvedor C# / .Net (Full Stack)
   - 🌱 Estudando CSS / HTML / JQuery / JavaScript and .Net
-  - 📚 Cursando ciência da computação 8º fase
+  - 📚 Cursando ciência da computação
   - 😶‍🌫️ I like to use white theme
 
 <div>  
