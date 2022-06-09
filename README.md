@@ -1,15 +1,18 @@
 ## Olá!! Eu sou o Alyson Cechinel desenvolvedor C# / .Net
 
-<div align="center">
-  <a href="https://github.com/alysonmcechinel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmcechinel&layout=compact&langs_count=7"/>
-</div>
-
-  - 🔭 Trabalho como Desenvolvedor C# / .Net (Full Stack)
-  - 🌱 Estudando CSS / HTML / JQuery / JavaScript and .Net
-  - 📚 Cursando ciência da computação
-  - 😶‍🌫️ I like to use white theme
-
+<div>
+    <a href="https://github.com/alysonmcechinel">
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmcechinel&layout=compact&langs_count=7"/>
+    <ul>
+      <li>🔭 Trabalho como Desenvolvedor C# / .Net (Full Stack)</li>
+      <li>🌱 Estudando CSS / HTML / JQuery / JavaScript and .Net</li>
+      <li>📚 Cursando ciência da computação</li>
+      <li>😶‍🌫️ I like to use white theme</li>
+    </ul>    
+</div> 
+  
+ 
+  
 <div>  
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
