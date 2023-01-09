@@ -6,7 +6,7 @@
     <ul>
       <li>🔭 Trabalho como Desenvolvedor C# / .Net (Full Stack)</li>
       <li>🌱 Estudando CSS / HTML / JQuery / JavaScript and .Net</li>
-      <li>📚 Formado ciência da computação</li>
+      <li>📚 Formado em ciência da computação</li>
       <li>😶‍🌫️ I like to use white theme</li>
     </ul>    
 </div> 
