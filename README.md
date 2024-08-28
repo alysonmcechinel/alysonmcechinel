@@ -5,9 +5,8 @@
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysonmcechinel&layout=compact&langs_count=7"/>
     <ul>
       <li>🔭 Trabalho como Desenvolvedor C# / .Net (Full Stack)</li>
-      <li>🌱 Estudando CSS / HTML / JQuery / JavaScript and .Net</li>
+      <li>🌱 Estudando CSS / HTML / JQuery / JavaScript / C# / .Net</li>
       <li>📚 Formado em ciência da computação</li>
-      <li>😶‍🌫️ I like to use white theme</li>
     </ul>    
 </div> 
   
