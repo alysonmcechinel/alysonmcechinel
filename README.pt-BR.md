@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/alyson-cechinel/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=alysonmcechinel&label=Visualiza%C3%A7%C3%B5es&color=512BD4&style=flat-square" alt="Visualizações do perfil">
 </p>
 
 ## Sobre mim
